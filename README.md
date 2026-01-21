@@ -1,1 +1,2 @@
-visit the website https://qeo-svv.github.io/sigma-jello-bedrock1/
+welcome to sigma client website for bedrock
+
